@@ -1,0 +1,1 @@
+Figure 7. Bars show volume-weighted medians in the hippocampus and three 10-mm montage-related cortical sampling spheres. These are sampling regions, not atlas ROIs; mean and P95 values are provided in the regional table and Figure 8.
