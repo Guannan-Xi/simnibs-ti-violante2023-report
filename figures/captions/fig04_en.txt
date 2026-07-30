@@ -1,0 +1,1 @@
+Figure 4. Directional TI envelope and TImax for TI 1:1. Each metric shares its display scale with the corresponding TI 1:3 panels; directional TI and TImax use separate ranges.
