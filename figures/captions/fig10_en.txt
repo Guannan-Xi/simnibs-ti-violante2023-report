@@ -1,0 +1,1 @@
+Figure 10. Directional TI on the left gray-matter surface for TI 1:1 and TI 1:3. Both conditions share a whole-gray-matter P99 display limit. A 2.5-mm vertex-clustered surface is used only for rendering; elementwise analysis data are not downsampled.
