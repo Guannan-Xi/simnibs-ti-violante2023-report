@@ -1,0 +1,1 @@
+Figure 3. Carrier-field magnitudes E1 and E2 in three orthogonal planes through the target. Each is the basis field for its electrode pair at 1 mA peak-to-baseline current, before TI 1:3 scaling. All panels share a joint gray-matter P99 display scale; machine values remain unchanged.
