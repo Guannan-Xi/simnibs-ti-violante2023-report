@@ -1,0 +1,1 @@
+Figure 1. Individual T1 anatomy and the left hippocampal ROI. Green contours show the Harvard-Oxford left hippocampus mapped to the ernie gray-matter mesh; slices pass through the volume-weighted ROI centroid.
