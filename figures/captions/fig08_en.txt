@@ -1,0 +1,1 @@
+Figure 8. Panels show left-to-off-target ratios, bilateral hippocampal statistics, and P99-tail capture. Off-target gray matter includes the right hippocampus, other deep gray matter, and cortical samples. TI 1:1 and TI 1:3 ratios are 1.59/1.57/1.49 and 1.28/1.45/1.00; P99-tail capture is 3.14% and 0.03%.
